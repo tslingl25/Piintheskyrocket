@@ -1,2 +1,3 @@
-# Piintheskyrocket
-Pi in the sky project - Nathaniel and Thomas
+# Pi in the sky project
+By Nathaniel and Thomas
+## Project Planning
