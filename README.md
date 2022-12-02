@@ -23,4 +23,10 @@ By Nathaniel and Thomas
     + Circuit Board
     
 ### Function
+  The mechanism for how the mortar is very simple. You throw a pressurized water rocket into the mortar and when it hits the bottom, there is a nail that punctures the cap of the water rocket, releasing the pressure and propelling the rocket upwards. The mortar itself will be a simple cvc pipe that is set at an angle on a stand to send the water rocket in an ark, like a mortar.
+  
+### What we need to learn
+  We need to figure out the ideal size of the cvc pipe to optimize the launch, as well as figure how to design the rocket itself. Specifically we need to design an area to safely hold the raspberry pi and whether we would need a parachute or not. Also, we need to figure out how water pressure works and what the best way to optimize it is for our purposes.
+  
+### What is success?
   
