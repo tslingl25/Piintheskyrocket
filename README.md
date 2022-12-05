@@ -41,3 +41,16 @@ By Nathaniel and Thomas
 ## Block Diagram
 ![IMG-2194](https://user-images.githubusercontent.com/71349802/205718072-1bc436d3-08fe-4a17-9fcd-61d2b199cb31.jpg)
 
+## Schedule
+
+T < December 5, Planning and document
+
+December 5 < T < December 25, Onshape design
+
+December 25 < T < January 25, Phisysical building
+
+January 25 < T < March 1, Testing and refineing rocket 
+
+March 1 < T < April 1, Installation and testing of electronics and tracking device, and parachute.
+
+April 1 < T < Spring break, Final testing and tweaking
