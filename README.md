@@ -45,7 +45,20 @@ By Nathaniel and Thomas
    + Rocket launcher. Cons: Lame, boring, unoriginal. Pros: It would go very high, Very easy to make/use, safe.
    + **Mortar. Cons: Rocket can't get as high, slightly unsafe. Pros: Awesome, goes in a measurable? arc, can launch multiple rockets/shells**
    + Truck Rockets. Cons: Nothing at all, "unsafe". Pros: Awesome, moveable, on a golf cart.
-   
+ 
+### Schedule
+
+T < December 5, Planning and document
+
+December 5 < T < December 25, Onshape design
+
+December 25 < T < January 25, Phisysical building
+
+January 25 < T < March 1, Testing and refineing rocket 
+
+March 1 < T < April 1, Installation and testing of electronics and tracking device, and parachute.
+
+April 1 < T < Spring break, Final testing and tweaking
 
 ### Diagrams
 
@@ -54,4 +67,8 @@ By Nathaniel and Thomas
 
 ## Mortar Diagram
 <img src="images/Mortar%20Sketch.jpg" alt="Left View" width="500" height="500">
+
+## Block Diagram
+![IMG-2194](https://user-images.githubusercontent.com/71349802/205718072-1bc436d3-08fe-4a17-9fcd-61d2b199cb31.jpg)
+
 
