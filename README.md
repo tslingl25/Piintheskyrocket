@@ -30,3 +30,11 @@ By Nathaniel and Thomas
   
 ### What is success?
   
+### Diagrams
+
+## Rocket Diagram
+<img src="images/Rocket%20Sketch.jpg" alt="Left View" width="500" height="500">
+
+## Mortar Diagram
+<img src="images/Mortar%20Sketch.jpg" alt="Left View" width="500" height="500">
+
