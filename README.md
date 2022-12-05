@@ -38,3 +38,6 @@ By Nathaniel and Thomas
 ## Mortar Diagram
 <img src="images/Mortar%20Sketch.jpg" alt="Left View" width="500" height="500">
 
+## Block Diagram
+![IMG-2194](https://user-images.githubusercontent.com/71349802/205718072-1bc436d3-08fe-4a17-9fcd-61d2b199cb31.jpg)
+
