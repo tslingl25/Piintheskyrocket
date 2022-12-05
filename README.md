@@ -30,6 +30,23 @@ By Nathaniel and Thomas
   
 ### What is success?
   Have a functionioning Mortar that can effectively launch multiple water rockets at a time without flaw and having one of the rockets measure the height it reaches and possibly measure it's arc and the distance it travels as well. Also, try to make the rockets go as high and as far as we can.
+  
+### Saftey concerns/Risk Mitigation
+  The risks of the water rocket is the highly pressurized water that could hurt someone or certainly get someone wet. To mitigate these risks we will make sure everone is using proper PPE and make sure everyone is far enough away at launch. Another risk is the nail in the bottom of the mortar which will be very sharp, we will mitigate this risk by handiling the nail safely and as little as possible. The only other risk is the flight path of the rocket, we will mitigate this risk by making sure everyone is out of the way in the way the mortar is pointing as to not hit anyone.
+  
+### Iterations 
+
++ #### Debates about the protection of the components
+   + No parachute or substantial protection. Cons: All components would break constant replacement and Mr. Miller angry. Pros: Very light and Easy
+   + Substantial protection through securing electronics to wall of the cone. Cons: Components would probably still break, Mr Miller probably angry. Pros: Very light, might provide some protection
+   + Peanut Butter protection. Cons: Messy, Ruins the electornics, 3d printed stuff would still break. Pros: Peanut Butter, Electronics wouldn't break?
+   + **Parachute. Cons: Heavier, hard to design, might not work. Pros: Should protect electronics and all components.**
++ #### Launching Mechanism
+   + Rocket launcher. Cons: Lame, boring, unoriginal. Pros: It would go very high, Very easy to make/use, safe.
+   + **Mortar. Cons: Rocket can't get as high, slightly unsafe. Pros: Awesome, goes in a measurable? arc, can launch multiple rockets/shells**
+   + Truck Rockets. Cons: Nothing at all, "unsafe". Pros: Awesome, moveable, on a golf cart.
+   
+
 ### Diagrams
 
 ## Rocket Diagram
@@ -38,19 +55,3 @@ By Nathaniel and Thomas
 ## Mortar Diagram
 <img src="images/Mortar%20Sketch.jpg" alt="Left View" width="500" height="500">
 
-## Block Diagram
-![IMG-2194](https://user-images.githubusercontent.com/71349802/205718072-1bc436d3-08fe-4a17-9fcd-61d2b199cb31.jpg)
-
-## Schedule
-
-T < December 5, Planning and document
-
-December 5 < T < December 25, Onshape design
-
-December 25 < T < January 25, Phisysical building
-
-January 25 < T < March 1, Testing and refineing rocket 
-
-March 1 < T < April 1, Installation and testing of electronics and tracking device, and parachute.
-
-April 1 < T < Spring break, Final testing and tweaking
