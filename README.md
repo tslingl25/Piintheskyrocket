@@ -71,4 +71,24 @@ April 1 < T < Spring break, Final testing and tweaking
 ## Block Diagram
 ![IMG-2194](https://user-images.githubusercontent.com/71349802/205718072-1bc436d3-08fe-4a17-9fcd-61d2b199cb31.jpg)
 
+#ONSHAPE
+
+Base-
+To make the base we stole Wills picture of a bottle and traced it with a spline. We then revolved it and cut weight reduceing gaps in the base. We also cut the base in half so thatis can be bolted together with a flange.
+
+
+
+Threads-
+The threads at the top of the base were homemade from scratch. We drew a helix and then revolved a triangle around the helix. The other piece was then boleaned from the new threads to make the finished product. The result was buttery smooth threads with no thread tool needed. Nice!
+
+
+
+Warhead-
+
+
+
+
+Goodies compartment_
+
+
 
