@@ -84,7 +84,7 @@ The threads at the top of the base were homemade from scratch. We drew a helix a
 
 
 Warhead-
-
+The warhead took a few trials and tribulations to get right. We started with a dome that had a inner cylinder to shield the parachute from the servos. We then decided to go to a cone shape with an inner cone, then just a cone with srvo covers that shield the servos. This left us with more space for the parachute and easier deployment.
 
 
 
